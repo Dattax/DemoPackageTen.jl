@@ -1,0 +1,13 @@
+name = "DemoPackageTen"
+uuid = "f206b4f4-98fc-4b47-a2d2-cf62e5807efc"
+authors = ["Deep-Datta"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
